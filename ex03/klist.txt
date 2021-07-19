@@ -1,0 +1,5 @@
+Credentials cache: API:1013403
+        Principal: hdino@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jul 19 17:52:05 2021  Jul 20 03:52:05 2021  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
